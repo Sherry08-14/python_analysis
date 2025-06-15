@@ -4,3 +4,4 @@ wget
 numpy
 pandas
 openpyxl
+yfinance
